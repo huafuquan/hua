@@ -32,6 +32,9 @@ jobs:
           cp -f icon.png CydiaIcon.png public/ 2>/dev/null || true
           cd public
           dpkg-scanpackages --multiversion debs /dev/null > Packages
+          cd ..
+          python3 generate_depictions.py
+          cd public
           gzip -n -k Packages
           bzip2 -k Packages
           printf 'Origin: hua\nLabel: hua\nSuite: stable\nCodename: sileo\nArchitectures: iphoneos-arm64 iphoneos-arm64e\nComponents: main\nDescription: hua\n' > Release
