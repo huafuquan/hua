@@ -30,6 +30,7 @@ jobs:
           touch public/.nojekyll
           cp -f debs/*.deb public/debs/ 2>/dev/null || true
           cp -f icon.png CydiaIcon.png public/ 2>/dev/null || true
+          if [ -d resources ]; then cp -R resources public/; fi
           cd public
           dpkg-scanpackages --multiversion debs /dev/null > Packages
           cd ..

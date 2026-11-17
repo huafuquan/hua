@@ -1,0 +1,30 @@
+[
+  {
+    "package": "com.hua.wetypecleansix",
+    "name": "WeTypeCleanSix",
+    "version": "0.2.0.5",
+    "deb": "com.hua.wetypecleansix_0.2.0.5_iphoneos-arm64e.deb",
+    "deb_sha256": "df48fddee6e13893dc4ce771268a661f84fb1389bce8a24e15f51d6bde004b57",
+    "original_deb_sha256": "45069499fbdf6b1a43b9545cbb7993d8e9ad2e569ecb7afae8095cb84c0b9622",
+    "source": "WeTypeCleanSix-0.2.0.5-source.tar.gz",
+    "source_sha256": "c9ceea39f0982b2a6006e16e4970a821732e4f334b385b7a59176ca466f475e7",
+    "data_member": "data.tar.lzma",
+    "data_sha256": "d60f20d115bda58e7597f6b52e8d2754067f33dc7efc6a3a5347b90f4f29aa03",
+    "data_original_bytes_preserved": true,
+    "maintainer_scripts_identical": true
+  },
+  {
+    "package": "com.hua.wetypecleansix.hidebuttons",
+    "name": "WeTypeCleanSix（隐藏地球听写）",
+    "version": "0.2.0.5+buttons1",
+    "deb": "com.hua.wetypecleansix.hidebuttons_0.2.0.5+buttons1_iphoneos-arm64e.deb",
+    "deb_sha256": "7ef597ceb4553466970d3da48c95965800ea81e1d81c0068835e7a624ce777b1",
+    "original_deb_sha256": "e77dab597a048e82a6523ededca4adfb4e6e8a6b344e725ac50047760dc97d9d",
+    "source": "WeTypeCleanSix-0.2.0.5-buttons1-source.tar.gz",
+    "source_sha256": "0ca6ea11c760c50820a0d8c6d3c9e80be7dc713c48a1f1faf44379660ddd9135",
+    "data_member": "data.tar.lzma",
+    "data_sha256": "97cfc86ddbbf3082b64b6a47707f084694b934c5fd93e5220ac8104b82ea9c6c",
+    "data_original_bytes_preserved": true,
+    "maintainer_scripts_identical": true
+  }
+]

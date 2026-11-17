@@ -1,0 +1,2 @@
+c9ceea39f0982b2a6006e16e4970a821732e4f334b385b7a59176ca466f475e7  WeTypeCleanSix-0.2.0.5-source.tar.gz
+0ca6ea11c760c50820a0d8c6d3c9e80be7dc713c48a1f1faf44379660ddd9135  WeTypeCleanSix-0.2.0.5-buttons1-source.tar.gz
